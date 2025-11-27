@@ -60,7 +60,7 @@ const HeroSection2 = ({ topOffset = 88 }) => {
     { icon: Star, text: "Premium service" },
   ];
 
-  // BlueLife LLC Colors
+  // BlueLife Financial Solutions LLC Colors
   const primaryBlue = "#00B0FF";
   const darkBlue = "#0050A0";
   const backgroundDark = "#001833";

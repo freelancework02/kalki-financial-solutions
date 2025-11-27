@@ -8,7 +8,7 @@ import Footer from "../Contactus/Contactus";
  * Blog Detail — Variant A
  * - Immersive hero with floating info card
  * - Small spacer under Navbar to avoid overlap on mobile
- * - BlueLife LLC blue/white theme with glassmorphism effects
+ * - BlueLife Financial Solutions LLC blue/white theme with glassmorphism effects
  */
 
 export default function BlogDetailVariantA() {
@@ -16,7 +16,7 @@ export default function BlogDetailVariantA() {
   const navigate = useNavigate();
   const blog = location.state?.blog;
 
-  // BlueLife LLC Color Scheme
+  // BlueLife Financial Solutions LLC Color Scheme
   const primaryBlue = "#00B0FF";
   const darkBlue = "#0050A0";
 

@@ -14,7 +14,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-// Modern BlueLife Brand Colors
+// Modern BlueLife Financial Solutions LLC Brand Colors
 const brandColors = {
   primary: "#00B0FF",
   primaryColor: "#0050A0",
@@ -151,7 +151,7 @@ export default function EventsGalleryModernVariant() {
             style={{ borderColor: brandColors.accentBorder }}>
             <div className="w-2 h-2 rounded-full bg-gradient-to-r from-[#0050A0] to-[#00B0FF]"></div>
             <span className="text-sm font-bold tracking-widest uppercase" style={{ color: "#0050A0" }}>
-              BlueLife Events
+              BlueLife Financial Solutions LLC Events
             </span>
             <div className="w-2 h-2 rounded-full bg-gradient-to-r from-[#0050A0] to-[#00B0FF]"></div>
           </div>
@@ -341,7 +341,7 @@ export default function EventsGalleryModernVariant() {
             style={{ borderColor: brandColors.accentBorder }}>
             <div className="w-3 h-3 rounded-full bg-gradient-to-r from-[#0050A0] to-[#00B0FF] animate-pulse"></div>
             <span className="text-lg font-bold tracking-wider uppercase" style={{ color: brandColors.textDark }}>
-              BlueLife LLC • Premium Events
+              BlueLife Financial Solutions LLC • Premium Events
             </span>
             <div className="w-3 h-3 rounded-full bg-gradient-to-r from-[#0050A0] to-[#00B0FF] animate-pulse"></div>
           </div>

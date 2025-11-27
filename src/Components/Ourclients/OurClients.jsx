@@ -56,7 +56,7 @@ const clients = [
 ];
 
 export default function OurClientsCorporate() {
-  // BlueLife Corporate Colors
+  // BlueLife Financial Solutions LLC Corporate Colors
   const primaryColor = "#0050A0";
   const secondaryColor = "#00B0FF";
   const accentColor = "#80D8FF";
@@ -154,7 +154,7 @@ export default function OurClientsCorporate() {
           <div className="mt-12 flex items-center justify-center">
             <div className="text-center">
               <p className="text-sm font-semibold tracking-widest uppercase mb-4 text-gray-600">
-                BlueLife Financial Solutions
+                BlueLife Financial Solutions LLC
               </p>
               <div className="h-1.5 rounded-full w-48 mx-auto bg-gradient-to-r from-[#0050A0] to-[#00B0FF]">
               </div>

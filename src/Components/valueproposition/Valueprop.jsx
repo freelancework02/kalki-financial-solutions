@@ -72,7 +72,7 @@ export default function ValuePropositionCorporate() {
           </div>
 
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-black mb-5 tracking-tight text-gray-900">
-            Why Choose <span style={{ color: bluePrimary }}>BlueLife</span>
+            Why Choose <span style={{ color: bluePrimary }}>BlueLife Financial Solutions LLC</span>
           </h1>
 
           <p className="text-md text-gray-700 max-w-2xl mx-auto">

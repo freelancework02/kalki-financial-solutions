@@ -8,14 +8,14 @@ import { Calendar, User, ArrowRight, Clock, BookOpen, TrendingUp, Target } from 
  * BLOG — Modern Professional
  * - Clean card layout
  * - Professional business aesthetic
- * - BlueLife brand consistency
+ * - BlueLife Financial Solutions LLC brand consistency
  */
 export default function BlogModernVariant() {
   const [blogs, setBlogs] = useState([]);
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
 
-  // BlueLife Professional Colors
+  // BlueLife Financial Solutions LLC Professional Colors
   const brandColors = {
     lightBg: "linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 50%, #f0fdfa 100%)",
     primary: "#00B0FF",
@@ -75,7 +75,7 @@ export default function BlogModernVariant() {
             style={{ borderColor: brandColors.accentBorder }}>
             <div className="w-2 h-2 rounded-full bg-gradient-to-r from-[#0050A0] to-[#00B0FF]"></div>
             <span className="text-sm font-bold tracking-widest uppercase" style={{ color: "#0050A0" }}>
-              BlueLife Publications
+              BlueLife Financial Solutions LLC Publications
             </span>
             <div className="w-2 h-2 rounded-full bg-gradient-to-r from-[#0050A0] to-[#00B0FF]"></div>
           </div>
@@ -172,7 +172,7 @@ export default function BlogModernVariant() {
                           </div>
                           <div>
                             <p className="text-sm font-semibold" style={{ color: brandColors.textDark }}>
-                              {blog.author || "BlueLife Team"}
+                              {blog.author || "BlueLife Financial Solutions LLC Team"}
                             </p>
                             <p className="text-xs text-gray-500">Senior Analyst</p>
                           </div>
@@ -216,7 +216,7 @@ export default function BlogModernVariant() {
           <div className="inline-flex items-center gap-8 px-8 py-6 rounded-2xl bg-white/80 backdrop-blur-sm border shadow-lg"
             style={{ borderColor: brandColors.accentBorder }}>
             <span className="text-lg font-bold tracking-wider uppercase" style={{ color: brandColors.textDark }}>
-              BlueLife Market Intelligence
+              BlueLife Financial Solutions LLC Market Intelligence
             </span>
             <button
               className="px-8 py-3 rounded-xl font-semibold text-white transition-all duration-300 hover:shadow-lg hover:scale-105"

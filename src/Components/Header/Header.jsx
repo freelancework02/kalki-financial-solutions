@@ -14,7 +14,7 @@ export default function Navbar() {
                 <FinancialLogo />
               </div>
               <div>
-                <h1 className="text-[#E5B80B] font-bold text-xl md:text-2xl">VM FINANCIAL SOLUTIONS</h1>
+                <h1 className="text-[#E5B80B] font-bold text-xl md:text-2xl">BlueLife Financial Solutions LLC</h1>
                 <p className="text-[#E5B80B] text-xs md:text-sm tracking-wider">
                   MINIMIZE RISK <span className="mx-2">|</span> OPTIMIZE <span className="mx-2">|</span> MAXIMIZE GROWTH
                 </p>

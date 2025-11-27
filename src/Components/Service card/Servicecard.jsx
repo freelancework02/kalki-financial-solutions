@@ -10,7 +10,7 @@ const services = [
 ];
 
 export default function ServiceCardsCorporate() {
-  // BlueLife Corporate Colors
+  // BlueLife Financial Solutions LLC Corporate Colors
   const primaryColor = "#0050A0";
   const secondaryColor = "#00B0FF";
   const accentColor = "#80D8FF";
@@ -159,7 +159,7 @@ export default function ServiceCardsCorporate() {
           <div className="inline-flex items-center gap-4 px-6 py-3 rounded-full bg-white border shadow-lg"
             style={{ borderColor: borderColor }}>
             <span className="text-sm font-semibold tracking-widest uppercase text-gray-600">
-              BlueLife Financial Solutions
+              BlueLife Financial Solutions LLC
             </span>
           </div>
         </div> */}

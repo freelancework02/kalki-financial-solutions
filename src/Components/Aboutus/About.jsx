@@ -3,7 +3,7 @@ import image from "../../assets/ashesh.jpeg";
 import { Award, Users, TrendingUp, Shield, Target, Lightbulb } from "lucide-react";
 
 export default function AboutUsModernSplit() {
-  // BlueLife Modern Colors
+  // BlueLife Financial Solutions LLC Modern Colors
   const primaryColor = "#0050A0";
   const secondaryColor = "#00B0FF";
   const accentColor = "#80D8FF";
@@ -68,7 +68,7 @@ export default function AboutUsModernSplit() {
 
               <div className="space-y-6">
                 <p className="text-gray-700 leading-relaxed text-lg"> {/* Dark text */}
-                  At <strong className="text-gray-900">BlueLife LLC</strong>, we understand that personal finances can be overwhelming—especially when most people never receive formal education on the subject. Our mission is to empower you with the knowledge and tools needed to take control of your financial future.
+                  At <strong className="text-gray-900">BlueLife Financial Solutions LLC</strong>, we understand that personal finances can be overwhelming—especially when most people never receive formal education on the subject. Our mission is to empower you with the knowledge and tools needed to take control of your financial future.
                 </p>
 
                 <p className="text-gray-700 leading-relaxed text-lg"> {/* Dark text */}
@@ -132,7 +132,7 @@ export default function AboutUsModernSplit() {
                 <div className="h-px w-16 mx-auto bg-white/30"></div>
 
                 <div>
-                  <p className="text-lg font-semibold">BlueLife LLC</p>
+                  <p className="text-lg font-semibold">BlueLife Financial Solutions LLC</p>
                   <p className="text-white/70 text-sm">Financial Security & Growth</p>
                 </div>
               </div>

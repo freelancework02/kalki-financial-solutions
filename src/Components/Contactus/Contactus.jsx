@@ -15,7 +15,7 @@ const ContactSectionGlassmorphism = () => {
   const [errors, setErrors] = useState({});
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  // BlueLife LLC Color Scheme
+  // BlueLife Financial Solutions LLC Color Scheme
   const darkBg = "#001833";
   const cardDark = "#002147";
   const primaryColor = "#0050A0";
@@ -136,7 +136,7 @@ const ContactSectionGlassmorphism = () => {
             }}>
             <div className="w-2 h-2 rounded-full animate-pulse" style={{ background: secondaryColor }}></div>
             <span className="text-sm font-semibold uppercase tracking-wider" style={{ color: primaryColor }}>
-              BLUELIFE FINANCIAL PARTNERS
+              BLUELIFE FINANCIAL SOLUTIONS LLC
             </span>
           </div>
 
@@ -176,7 +176,7 @@ const ContactSectionGlassmorphism = () => {
                   <Award className="w-8 h-8" style={{ color: secondaryColor }} />
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold" style={{ color: '#1e293b' }}>BlueLife LLC</h3>
+                  <h3 className="text-2xl font-bold" style={{ color: '#1e293b' }}>BlueLife Financial Solutions LLC</h3>
                   <p style={{ color: '#64748b' }}>Financial Security & Growth</p>
                 </div>
               </div>
@@ -476,10 +476,10 @@ const ContactSectionGlassmorphism = () => {
               background: 'rgba(255, 255, 255, 0.4)',
               boxShadow: '0 4px 16px rgba(0, 176, 255, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.8)'
             }}>
-            <div className="text-2xl font-bold mb-2" style={{ color: '#1e293b' }}>BlueLife LLC</div>
+            <div className="text-2xl font-bold mb-2" style={{ color: '#1e293b' }}>BlueLife Financial Solutions LLC</div>
             <p className="mb-4" style={{ color: '#64748b' }}>Financial Security • Investment Growth • Retirement Planning</p>
             <div className="text-sm" style={{ color: '#64748b' }}>
-              © {new Date().getFullYear()} BlueLife Financial Partners. All Rights Reserved.
+              © {new Date().getFullYear()} BlueLife Financial Solutions LLC. All Rights Reserved.
             </div>
           </div>
         </div>

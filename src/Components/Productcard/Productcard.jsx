@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import { ArrowRight, Calendar, Shield, TrendingUp, Target, Users } from "lucide-react";
 
 export default function ProductCardsGlassmorphism() {
-  // BlueLife LLC Color Scheme - Updated for white background
+  // BlueLife Financial Solutions LLC Color Scheme - Updated for white background
   const primaryColor = "#0050A0";
   const secondaryColor = "#00B0FF";
   const accentColor = "#80D8FF";

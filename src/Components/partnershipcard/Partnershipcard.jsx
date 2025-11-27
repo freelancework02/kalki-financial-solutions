@@ -55,7 +55,7 @@ const cardData = [
 export default function PartnerProgramCorporate() {
   const [selectedCard, setSelectedCard] = useState(null);
 
-  // BlueLife Corporate Colors
+  // BlueLife Financial Solutions LLC Corporate Colors
   const primaryColor = "#0050A0";
   const secondaryColor = "#00B0FF";
   const accentColor = "#80D8FF";
@@ -172,7 +172,7 @@ export default function PartnerProgramCorporate() {
         <div className="text-center mt-16">
           <div className="bg-white rounded-2xl p-8 border shadow-lg"
             style={{ borderColor: borderColor }}>
-            <h3 className="text-2xl font-bold mb-4 text-gray-900">Join BlueLife Today</h3>
+            <h3 className="text-2xl font-bold mb-4 text-gray-900">Join BlueLife Financial Solutions LLC Today</h3>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Start your journey toward a rewarding career in financial services with comprehensive training and expert mentorship.
             </p>

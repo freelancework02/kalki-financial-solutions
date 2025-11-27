@@ -41,9 +41,9 @@ export default function BlueLifeNavbarV1() {
     <>
       <header className={`bl-header ${isScrolled ? "scrolled" : ""}`} role="banner">
         <div className="bl-row">
-          <Link to="/" className="bl-logo" aria-label="BlueLife LLC home">
-            <img src={LogoSrc} alt="BlueLife LLC" />
-            {/* <span className="bl-wordmark">BlueLife LLC</span> */}
+          <Link to="/" className="bl-logo" aria-label="BlueLife Financial Solutions LLC home">
+            <img src={LogoSrc} alt="BlueLife Financial Solutions LLC" />
+            {/* <span className="bl-wordmark">BlueLife Financial Solutions LLC</span> */}
           </Link>
 
           {/* Desktop nav */}
@@ -94,8 +94,8 @@ export default function BlueLifeNavbarV1() {
           }}>
             <div className="drawer-top">
               <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
-                <img src={LogoSrc} alt="BlueLife LLC" style={{ height: 48 }} />
-                {/* <div style={{ fontWeight: 700, color: "var(--wp-text)" }}>BlueLife LLC</div> */}
+                <img src={LogoSrc} alt="BlueLife Financial Solutions LLC" style={{ height: 48 }} />
+                {/* <div style={{ fontWeight: 700, color: "var(--wp-text)" }}>BlueLife Financial Solutions LLC</div> */}
               </div>
 
               <button

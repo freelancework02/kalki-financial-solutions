@@ -280,7 +280,7 @@ export default function BlueLifeVisualStorytelling() {
               Success <span className="text-[#0050A0]">Stories</span>
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Real results from clients who trusted BlueLife with their financial future
+              Real results from clients who trusted BlueLife Financial Solutions LLC with their financial future
             </p>
           </div>
 
@@ -322,7 +322,7 @@ export default function BlueLifeVisualStorytelling() {
             <div className="text-center text-white p-8">
               <h3 className="text-3xl font-bold mb-4">Ready to See Your Success Story?</h3>
               <p className="text-blue-100 mb-6 max-w-md mx-auto">
-                Join thousands of satisfied clients who achieved their financial dreams with BlueLife
+                Join thousands of satisfied clients who achieved their financial dreams with BlueLife Financial Solutions LLC
               </p>
               <button
                 onClick={openCalendly}

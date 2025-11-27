@@ -22,8 +22,8 @@ export default function EventsDetailGlassVariant({ event = {}, previousEvents = 
       title: "Retirement Planning Masterclass: Secure Your Financial Future",
       date: "2025-11-18T17:30:00+05:30",
       description:
-        "A comprehensive session covering retirement strategies, tax optimization, and wealth preservation. Learn how to build a secure financial future with expert guidance from BlueLife LLC.",
-      host: "Michael Reynolds - BlueLife Wealth Management",
+        "A comprehensive session covering retirement strategies, tax optimization, and wealth preservation. Learn how to build a secure financial future with expert guidance from BlueLife Financial Solutions LLC.",
+      host: "Michael Reynolds - BlueLife Financial Solutions LLC Wealth Management",
       meetingLink: "https://calendly.com/gobluelifellc/30min",
       thumbnailUrl:
         "https://images.unsplash.com/photo-1551836022-d5d88e9218df?q=80&w=1400&auto=format&fit=crop",
@@ -34,7 +34,7 @@ export default function EventsDetailGlassVariant({ event = {}, previousEvents = 
         "https://images.unsplash.com/photo-1487014679447-9f8336841d58?q=80&w=1400&auto=format&fit=crop",
         "https://images.unsplash.com/photo-1529336953121-a9d1b95a0df1?q=80&w=1400&auto=format&fit=crop",
       ],
-      location: "BlueLife Executive Center & Virtual",
+      location: "BlueLife Financial Solutions LLC Executive Center & Virtual",
       duration: "90 minutes",
       attendees: "45 confirmed",
       expertiseLevel: "Advanced",
@@ -49,7 +49,7 @@ export default function EventsDetailGlassVariant({ event = {}, previousEvents = 
         id: 101,
         title: "Investment Strategies for Market Volatility",
         date: "2025-10-22T18:00:00+05:30",
-        host: "BlueLife Investment Team",
+        host: "BlueLife Financial Solutions LLC Investment Team",
         thumbnailUrl:
           "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1200&auto=format&fit=crop",
         recordingLink: "https://example.com/recording/investment-strategies",
@@ -58,7 +58,7 @@ export default function EventsDetailGlassVariant({ event = {}, previousEvents = 
         id: 102,
         title: "Estate Planning & Wealth Transfer",
         date: "2025-09-10T17:00:00+05:30",
-        host: "BlueLife Legal Advisors",
+        host: "BlueLife Financial Solutions LLC Legal Advisors",
         thumbnailUrl:
           "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1200&auto=format&fit=crop",
         recordingLink: "https://example.com/recording/estate-planning",
@@ -72,7 +72,7 @@ export default function EventsDetailGlassVariant({ event = {}, previousEvents = 
 
   const displayDate = useMemo(() => formatDate(model.date), [model.date]);
 
-  // BlueLife LLC Brand Colors - Updated for white background
+  // BlueLife Financial Solutions LLC Brand Colors - Updated for white background
   const brandColors = {
     primary: "#00B0FF",
     primaryHover: "#80D8FF",
