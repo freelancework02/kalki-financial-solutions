@@ -72,12 +72,11 @@ export default function AboutUsModernSplit() {
                 </p>
 
                 <p className="text-gray-700 leading-relaxed text-lg"> {/* Dark text */}
-                  We begin by teaching the fundamentals of budgeting, saving, investing, and debt management. From there, we help you build personalized financial strategies that match your goals—whether that's saving for education, growing tax-deferred wealth, preparing for retirement, or handling day-to-day financial challenges.
-                </p>
+Between work, kids, and immigration stress, personal finance can fall to the bottom of the list. We simplify everything — saving, investing, taxes, protection — and help your family build a clear, affordable plan for a stronger future in the U.S.                </p>
 
-                <p className="text-gray-700 leading-relaxed text-lg"> {/* Dark text */}
+                {/* <p className="text-gray-700 leading-relaxed text-lg"> 
                   Through ongoing support, workshops, tools, and one-on-one guidance, we help you build long-term clarity and confidence. Our purpose is simple: demystify personal finance and help your family build a secure future—step by step.
-                </p>
+                </p> */}
               </div>
             </div>
 
@@ -104,7 +103,7 @@ export default function AboutUsModernSplit() {
             <div className="bg-gradient-to-br from-[#0050A0] to-[#00B0FF] rounded-3xl p-8 text-white text-center relative overflow-hidden">
               <div className="absolute top-0 left-0 w-full h-1 bg-white/20"></div>
 
-              <div className="relative mb-6">
+              {/* <div className="relative mb-6">
                 <div className="w-48 h-48 mx-auto rounded-full p-2 bg-white/20 backdrop-blur-sm">
                   <div className="w-full h-full rounded-full overflow-hidden border-4 border-white/20 bg-white/10">
                     <img
@@ -120,7 +119,7 @@ export default function AboutUsModernSplit() {
                     />
                   </div>
                 </div>
-              </div>
+              </div> */}
 
               <div className="space-y-3">
                 <div>

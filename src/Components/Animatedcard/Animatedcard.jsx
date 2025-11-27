@@ -185,37 +185,7 @@ export default function BlueLifeModernCards() {
             </div>
 
             {/* Process Section */}
-            <div className="bg-white rounded-3xl shadow-xl p-12  border border-gray-200">
-              {/* <div className="text-center mb-16">
-                <h2 className="text-4xl font-bold text-gray-900 mb-4">
-                  Our <span className="text-[#0050A0]">4-Step</span> Process
-                </h2>
-                <p className="text-gray-600 max-w-2xl mx-auto text-lg">
-                  A structured approach to achieving your financial objectives
-                </p>
-              </div> */}
-
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                {process.map((step, index) => (
-                  <div key={index} className="text-center group border rounded-md p-8 hovor:border-2">
-                    <div className="relative mb-6">
-                      <div className="w-20 h-20 bg-gradient-to-br from-[#0050A0] to-[#00B0FF] rounded-2xl flex items-center justify-center mx-auto group-hover:scale-110 transition-transform duration-500 shadow-lg">
-                        <step.Icon className="w-10 h-10 text-white" />
-                      </div>
-                      <div className="absolute -top-2 -right-2 w-8 h-8 bg-[#00B0FF] text-white rounded-full flex items-center justify-center text-sm font-bold">
-                        {step.step}
-                      </div>
-                    </div>
-                    <h3 className="text-xl font-bold text-gray-900 mb-3">
-                      {step.title}
-                    </h3>
-                    <p className="text-gray-600 text-sm">
-                      {step.description}
-                    </p>
-                  </div>
-                ))}
-              </div>
-            </div>
+            
 
 
           </div>

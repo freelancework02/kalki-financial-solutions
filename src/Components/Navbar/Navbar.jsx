@@ -15,8 +15,7 @@ import LogoSrc from "../../assets/Logo/new_logo.png";
 const navLinks = [
   { name: "Home", path: "/" },
   { name: "About us", path: "/about" },
-  { name: "Services", path: "/service" },
-  { name: "Products", path: "/product" },
+  { name: "Our Services", path: "/service" },
   { name: "Partnership", path: "/partnership" },
   { name: "Gallery", path: "/gallery" },
   { name: "Blog", path: "/blog" },

@@ -145,7 +145,7 @@ const HeroSection2 = ({ topOffset = 88 }) => {
                     Stronger Financial Future
                   </span>
                   <b />
-                  <span style={{ color: '#1e293b' }}> — Starting Now.</span>
+                  <span style={{ color: '#1e293b' }}> — Without Breaking the Bank.</span>
                 </h1>
 
                 <p className="text-xl mb-8 leading-relaxed" style={{ color: '#475569' }}>
@@ -262,7 +262,7 @@ const HeroSection2 = ({ topOffset = 88 }) => {
               </div>
 
               {/* Floating Stats Cards with Enhanced Glassmorphism */}
-              <div className="absolute -left-8 top-1/4 backdrop-blur-2xl rounded-2xl p-6 border shadow-2xl transform -rotate-6 transition-all duration-300 hover:scale-105 hover:rotate-[-4deg]"
+              {/* <div className="absolute -left-8 top-1/4 backdrop-blur-2xl rounded-2xl p-6 border shadow-2xl transform -rotate-6 transition-all duration-300 hover:scale-105 hover:rotate-[-4deg]"
                 style={{
                   background: 'rgba(255, 255, 255, 0.75)',
                   borderColor: 'rgba(0, 176, 255, 0.3)',
@@ -274,9 +274,9 @@ const HeroSection2 = ({ topOffset = 88 }) => {
                   <TrendingUp className="w-4 h-4" style={{ color: '#00A86B' }} />
                   <span className="text-xs font-semibold" style={{ color: '#00A86B' }}>+2.1% this month</span>
                 </div>
-              </div>
+              </div> */}
 
-              <div className="absolute -right-8 bottom-1/4 backdrop-blur-2xl rounded-2xl p-6 border shadow-2xl transform rotate-6 transition-all duration-300 hover:scale-105 hover:rotate-[4deg]"
+              {/* <div className="absolute -right-8 bottom-1/4 backdrop-blur-2xl rounded-2xl p-6 border shadow-2xl transform rotate-6 transition-all duration-300 hover:scale-105 hover:rotate-[4deg]"
                 style={{
                   background: 'rgba(255, 255, 255, 0.75)',
                   borderColor: 'rgba(0, 176, 255, 0.3)',
@@ -287,7 +287,7 @@ const HeroSection2 = ({ topOffset = 88 }) => {
                   <span className="font-semibold text-sm" style={{ color: darkBlue }}>Security Score</span>
                 </div>
                 <div className="text-2xl font-bold" style={{ color: darkBlue }}>98.7%</div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
